@@ -208,9 +208,6 @@ nav {
 /* Footer */
 /* ============================================= */
 
-footer {
-}
-
 .footerOne {
   background-color: #ebebeb;
   padding: 1rem 0 1rem 0;
@@ -495,7 +492,6 @@ footer {
   font-size: 14px;
   font-weight: bold;
 }
-
 
 .mainCardContainer {
   width: 100vw;
