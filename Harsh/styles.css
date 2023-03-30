@@ -671,7 +671,7 @@ nav {
   display: grid;
   grid-template-columns: 0.75fr 1fr;
   column-gap: 2rem;
-  padding: 2rem;
+  padding: 4rem 2rem 4rem 2rem;
 }
 
 .descriptionMainContainer .section .leftSection {
