@@ -197,11 +197,13 @@ nav {
   align-items: center;
 }
 
-.navbarThree .navigation span {
+.navbarThree .navigation span, .navbarThree .navigation a {
   padding-right: 1rem;
   cursor: pointer;
   font-weight: bold;
   font-size: 14px;
+  text-decoration: none;
+  color: black;
 }
 
 /* ============================================= */
