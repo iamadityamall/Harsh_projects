@@ -1091,6 +1091,37 @@ nav {
   font-weight: bold;
 }
 
+.checkoutRightSection {
+  padding: 1rem;
+}
+
+.checkoutRightSection form {
+  padding: 1rem; 
+  border-radius: 10px;
+  display: grid;
+  row-gap: 1rem;
+  box-shadow: 0 0 15px -1px rgba(0, 0, 0, 0.15);
+}
+
+
+.checkoutRightSection form p{
+  font-size: 1.25rem;
+}
+
+.checkoutItems {
+  display: grid;
+  row-gap: 0.25rem;;
+}
+
+.checkoutItems .star {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 0.25rem;
+  align-items: center;
+  font-size: 1rem;
+  color: gold;
+}
+
 @media screen and (max-width: 1024px) and (min-width: 768px) {
   .mainCardContainer .section {
     padding: 2rem;
